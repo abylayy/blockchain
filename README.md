@@ -18,8 +18,6 @@ This blockchain project aims to provide a simple yet functional implementation o
 - [Usage](#usage)
 - [Components](#components)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
